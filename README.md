@@ -23,4 +23,4 @@
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does? The introduction of a README should quickly inform users about the product’s purpose, key features, and benefits. It should include: Product name and tagline, a brief description, and key features.
 
-## 12. How can you succinctly convey the purpose and key features of a product? To succinctly convey the purpose and key features of a product, use the "One-liner + bullet Points" approach
+## 12. How can you succinctly convey the purpose and key features of a product? To succinctly convey the purpose and key features of a product, use the "One-liner + bullet Points" approach.
